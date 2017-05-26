@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+/*section*/
+.banner {
+    background: url(../fla/background.gif) no-repeat fixed;
+    background-size: cover;
+    height: 400px;
+    test-align: justify;
+}
+
+
+/*footer*/
+footer {
+    background-color: #B3B3B3;
+    padding-bottom: 35px;
+    height:600px;
+}
+
+.footer_article {
+    width: 50%;
+    text-align: center;
+    padding-top: 30px;
+    float: left;
+}
+
+.footer-article h3 {
+    color: #B3B3B3;
+    text-align: center;
+}
+
+.cards {
+    background-color:blue;
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    max-height: 400px;
+}
+
+
+
+
